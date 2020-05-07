@@ -8,7 +8,7 @@ The aim of this project is to finally run a real drone who will travel a little 
 ## Advandrone Team
 
 * Miguel López Delgado: miguel.lopez04@estudiant.upf.edu 
-* Teacher - ask if it is possible to write the name
+* Abdussalam alajami: Abdussalam.alajami@upf.edu
 
 ## Environment installation
 
